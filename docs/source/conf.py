@@ -4,10 +4,10 @@
 
 project = 'FUSION'
 copyright = '2024, Fusion'
-author = 'Fusion'
+author = 'Fusion,TingYuan,Steven_Zhang,FeiYu,S.K.Park,QuanCui,Zitai XuYang,Hanjin Liu,Qianguang Zhao'
 
-release = '0.1'  # 表示发布版本为0.1
-version = '0.1.0'  # 表示软件版本号为0.1.0
+release = '0.1'  
+version = '0.0'
 
 
 # -- General configuration
