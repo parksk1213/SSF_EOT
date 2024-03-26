@@ -2,12 +2,13 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'FUSION'
+copyright = '2024, Fusion'
+author = 'Fusion'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.1'  # 表示发布版本为0.1
+version = '0.1.0'  # 表示软件版本号为0.1.0
+
 
 # -- General configuration
 
