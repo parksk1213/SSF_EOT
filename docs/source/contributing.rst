@@ -9,6 +9,7 @@ Contributing
          'QuanCui,' \
          'Hanjin Liu,' \
          'Qianguang Zhao'
+
 .. autosummary::
    :toctree: generated
 
