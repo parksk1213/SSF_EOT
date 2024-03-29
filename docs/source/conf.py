@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'FUSION'
-copyright = '2024, Fusion'
-author = 'Fusion,TingYuan,Steven_Zhang,FeiYu,Zitai XuYang,S.K.Park,QuanCui,Hanjin Liu,Qianguang Zhao'
+copyright = '2024, Fusion,TingYuan,Steven_Zhang,FeiYu,Zitai XuYang,S.K.Park,QuanCui,Hanjin Liu,Qianguang Zhao'
+author = 'Fusion'
 
 release = '0.1'  
 version = '0.0'
