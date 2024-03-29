@@ -3,14 +3,14 @@
 # -- Project information
 
 project = 'FUSION'
-copyright = 'Fusion,' \
-         'TingYuan,' \
-         'Steven_Zhang,' \
-         'FeiYu,' \
-         'Zitai XuYang,' \
-         'S.K.Park,' \
-         'QuanCui,' \
-         'Hanjin Liu,' \
+copyright = 'Fusion, ' \
+         'TingYuan, ' \
+         'Steven_Zhang, ' \
+         'FeiYu, ' \
+         'Zitai XuYang, ' \
+         'S.K.Park, ' \
+         'QuanCui, ' \
+         'Hanjin Liu, ' \
          'Qianguang Zhao'
 author = 'Fusion'
 
