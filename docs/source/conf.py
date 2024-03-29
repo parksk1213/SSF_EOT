@@ -4,7 +4,7 @@
 
 project = 'FUSION'
 copyright = '2024, Fusion'
-author = 'Fusion,TingYuan,Steven_Zhang,FeiYu,S.K.Park,QuanCui,Zitai XuYang,Hanjin Liu,Qianguang Zhao'
+author = 'Fusion,TingYuan,Steven_Zhang,FeiYu,Zitai XuYang,S.K.Park,QuanCui,Hanjin Liu,Qianguang Zhao'
 
 release = '0.1'  
 version = '0.0'
