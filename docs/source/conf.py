@@ -8,10 +8,11 @@ copyright = 'Fusion,' \
          'Steven_Zhang,' \
          'FeiYu,' \
          'Zitai XuYang,' \
+         'Qianguang Zhao,' \
          'S.K.Park,' \
          'QuanCui,' \
-         'Hanjin Liu,' \
-         'Qianguang Zhao'
+         'Hanjin Liu' \
+         
 author = 'Fusion'
 
 release = '0.1'  
