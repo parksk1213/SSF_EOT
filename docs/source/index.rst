@@ -25,5 +25,5 @@ Contents
    Data Preprocessing <preprocessing>
    How to Use <useage> 
    Benchmark metrics <benchmark>
-   License <lisence>
+   License <license>
  
