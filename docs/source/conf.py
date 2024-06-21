@@ -4,18 +4,19 @@
 
 project = 'FUSION'
 copyright = 'Fusion,' \
-         'TingYuan,' \
-         'Steven_Zhang,' \
-         'FeiYu,' \
-         'Zitai XuYang,' \
-         'Qianguang Zhao,' \
-         'S.K.Park,' \
-         'QuanCui,' \
-         'Hanjin Liu' \
-         
+    'TingYuan,' \
+    'Steven_Zhang,' \
+    'FeiYu,' \
+    'Xiaojun Chen,' \
+    'Zitai XuYang,' \
+    'Qianguang Zhao,' \
+    'S.K.Park,' \
+    'QuanCui,' \
+    'Hanjin Liu' \
+
 author = 'Fusion'
 
-release = '0.1'  
+release = '0.1'
 version = '0.0'
 
 
