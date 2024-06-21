@@ -23,7 +23,7 @@ Contents
    Framework Design <design>
    Sensor Configuration <sensor>
    Data Preprocessing <preprocessing>
-   How to Use <useage> 
+   How to Use <usage> 
    Benchmark metrics <benchmark>
    License <license>
  
